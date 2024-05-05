@@ -20,5 +20,3 @@ Provide a short description explaining the what, why, and how of your project. U
 ```md
  ![alt text](assets/images/screenshot.png)
  ```
-    
-
