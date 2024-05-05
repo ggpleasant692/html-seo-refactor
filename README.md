@@ -20,3 +20,14 @@ Provide a short description explaining the what, why, and how of your project. U
 ```md
  ![alt text](assets/images/screenshot.png)
  ```
+
+
+ ![alt text](assets/images/screenshot.png)
+
+
+
+## Links
+
+[Live URL](https://github.com/ggpleasant692/html-seo-refactor/)
+
+[Github Repo](https://github.com/ggpleasant692/html-seo-refactor.git)
